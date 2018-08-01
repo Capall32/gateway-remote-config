@@ -1,0 +1,35 @@
+{
+
+	"gateway_conf": {
+
+		"gateway_ID": "b827ebfffe53689d",
+
+		"servers": [ { 
+
+			"server_address": "router.eu.thethings.network", 
+
+			"serv_port_up": 1700, 
+
+			"serv_port_down": 1700, 
+
+			"serv_enabled": true } ],
+
+		"ref_latitude": 47.46606708,
+
+		"ref_longitude": 8.50097310,
+
+		"ref_altitude": 450,
+
+		"contact_email": "fintan@koblerkeogh.ch",
+
+		"description": "kkgateway001",
+
+		"gps_tty_path": "",
+
+		"gps": false,
+
+		"fake_gps": true 
+
+	}
+
+}
